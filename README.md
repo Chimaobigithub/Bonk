@@ -1,2 +1,2 @@
 # Bonk
-This contains my initial stages as a software engineer powered by prompt engineering
+This contains my initial stages as a software Developer powered by prompt engineering
